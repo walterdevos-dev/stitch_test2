@@ -1,0 +1,8 @@
+{
+  "name": "RadioDirectory Pro",
+  "description": "A high-fidelity radio station directory and management platform featuring live streaming interfaces, deep analytics, and AI-powered station profile generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
